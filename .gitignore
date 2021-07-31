@@ -1,3 +1,21 @@
+#files to ignore
+16.8
+16.9.1 check
+bacon_counter.py
+createtables
+input.txt
+pos.py
+reviews.txt
+Old_Vine_Tables/vine_table_music.csv
+Old_Vine_Tables/vine_table_homeimprovement.csv
+Old_Vine_Tables/vine_table_dvds_old.csv
+Amazon_Reviews_ETL___.ipynb
+Vine_Review_Analysis_BACKUP.ipynb
+Vine_Review_Analysis_fork.ipynb
+percentoftotalpandas.ipynb
+Amazon_Reviews_ETL_starter_code.ipynb
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
