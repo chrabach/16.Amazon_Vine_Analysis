@@ -13,8 +13,8 @@ Amazon Vine is a service provided by Amazon in which product manufacturers recei
 
 
 
-![Fig1: Star Rating Summary](other_resources/01_star_rating_summary.png)
-[Fig1: Star Rating Summary](other_resources/01_star_rating_summary.png?raw=true "Figure 1: Star Rating Summary")
+![Fig1: Star Rating Summary](other_resources/01_star_rating_summary_.png)
+[Fig1: Star Rating Summary](other_resources/01_star_rating_summary_.png?raw=true "Figure 1: Star Rating Summary")
 
 
 Figure 1 displays the summarized results of the analysis.
